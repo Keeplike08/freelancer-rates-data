@@ -1,0 +1,980 @@
+[
+  {
+    "Role": "Principal ML Engineer",
+    "Location": "USA",
+    "Clean_Rate": 165.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Lead DevOps Architect",
+    "Location": "UK",
+    "Clean_Rate": 155.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Cloud Solutions Architect",
+    "Location": "Germany",
+    "Clean_Rate": 142.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Full Stack Developer",
+    "Location": "Canada",
+    "Clean_Rate": 135.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Database Admin",
+    "Location": "Australia",
+    "Clean_Rate": 130.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "AI Research Engineer",
+    "Location": "USA",
+    "Clean_Rate": 175.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior iOS Developer",
+    "Location": "USA",
+    "Clean_Rate": 145.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Android Developer",
+    "Location": "USA",
+    "Clean_Rate": 140.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Backend Engineer (Python)",
+    "Location": "Germany",
+    "Clean_Rate": 138.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Backend Engineer (Node.js)",
+    "Location": "Canada",
+    "Clean_Rate": 132.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Security Engineer",
+    "Location": "UK",
+    "Clean_Rate": 148.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Solutions Architect",
+    "Location": "USA",
+    "Clean_Rate": 155.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Lead UI/UX Designer",
+    "Location": "UK",
+    "Clean_Rate": 120.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior React Developer",
+    "Location": "Netherlands",
+    "Clean_Rate": 128.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Vue.js Developer",
+    "Location": "France",
+    "Clean_Rate": 122.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Angular Developer",
+    "Location": "Germany",
+    "Clean_Rate": 125.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Principal Software Engineer",
+    "Location": "USA",
+    "Clean_Rate": 168.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Staff Engineer",
+    "Location": "USA",
+    "Clean_Rate": 162.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Data Engineer",
+    "Location": "UK",
+    "Clean_Rate": 135.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Product Manager",
+    "Location": "USA",
+    "Clean_Rate": 150.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Engineering Manager",
+    "Location": "Canada",
+    "Clean_Rate": 145.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Technical Architect",
+    "Location": "Switzerland",
+    "Clean_Rate": 158.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Blockchain Developer",
+    "Location": "USA",
+    "Clean_Rate": 152.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Game Developer",
+    "Location": "Canada",
+    "Clean_Rate": 128.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior DevOps Engineer",
+    "Location": "Australia",
+    "Clean_Rate": 138.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Blockchain Developer",
+    "Location": "Switzerland",
+    "Clean_Rate": 128.50,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Data Scientist",
+    "Location": "USA",
+    "Clean_Rate": 118.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Cybersecurity Specialist",
+    "Location": "Netherlands",
+    "Clean_Rate": 110.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Product Manager",
+    "Location": "USA",
+    "Clean_Rate": 125.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Mid-Level Frontend Developer (React)",
+    "Location": "Poland",
+    "Clean_Rate": 88.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Backend Developer (Python)",
+    "Location": "Poland",
+    "Clean_Rate": 85.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Backend Developer (Node.js)",
+    "Location": "Spain",
+    "Clean_Rate": 82.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Full Stack Developer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 92.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Mobile Developer (iOS)",
+    "Location": "Canada",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Mobile Developer (Android)",
+    "Location": "UK",
+    "Clean_Rate": 93.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Data Analyst",
+    "Location": "USA",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "DevOps Engineer",
+    "Location": "Netherlands",
+    "Clean_Rate": 105.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "QA Engineer",
+    "Location": "Germany",
+    "Clean_Rate": 78.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Technical Writer",
+    "Location": "Canada",
+    "Clean_Rate": 75.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "E-commerce Specialist",
+    "Location": "Singapore",
+    "Clean_Rate": 85.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level UX Writer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 80.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "UI/UX Designer",
+    "Location": "Poland",
+    "Clean_Rate": 72.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Product Designer",
+    "Location": "USA",
+    "Clean_Rate": 105.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Scrum Master",
+    "Location": "UK",
+    "Clean_Rate": 88.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Business Analyst",
+    "Location": "Canada",
+    "Clean_Rate": 82.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Digital Marketing Specialist",
+    "Location": "USA",
+    "Clean_Rate": 75.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "SEO Specialist",
+    "Location": "Remote - Global",
+    "Clean_Rate": 65.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Content Writer",
+    "Location": "USA",
+    "Clean_Rate": 58.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Graphic Designer",
+    "Location": "Spain",
+    "Clean_Rate": 62.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Video Editor",
+    "Location": "Brazil",
+    "Clean_Rate": 55.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "3D Artist",
+    "Location": "Poland",
+    "Clean_Rate": 68.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Motion Graphics Designer",
+    "Location": "Mexico",
+    "Clean_Rate": 58.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Junior QA Automation Engineer",
+    "Location": "Spain",
+    "Clean_Rate": 55.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Backend Dev (Java)",
+    "Location": "India",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Frontend Developer (React)",
+    "Location": "Brazil",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Video Editor",
+    "Location": "Argentina",
+    "Clean_Rate": 40.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Graphic Designer",
+    "Location": "Philippines",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Wordpress Dev",
+    "Location": "Brazil",
+    "Clean_Rate": 30.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Python Developer",
+    "Location": "India",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior JavaScript Developer",
+    "Location": "Brazil",
+    "Clean_Rate": 40.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior PHP Developer",
+    "Location": "India",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Mobile Developer",
+    "Location": "Mexico",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Data Analyst",
+    "Location": "Poland",
+    "Clean_Rate": 48.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior UX Designer",
+    "Location": "Spain",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Content Writer",
+    "Location": "Philippines",
+    "Clean_Rate": 28.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior SEO Specialist",
+    "Location": "India",
+    "Clean_Rate": 30.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Social Media Manager",
+    "Location": "Brazil",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Virtual Assistant",
+    "Location": "Philippines",
+    "Clean_Rate": 25.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Copywriter",
+    "Location": "Argentina",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Web Designer",
+    "Location": "Mexico",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Game Developer",
+    "Location": "Poland",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior DevOps Engineer",
+    "Location": "India",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior QA Tester",
+    "Location": "Brazil",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Senior Frontend Engineer (React)",
+    "Location": "USA",
+    "Clean_Rate": 138.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Frontend Engineer (Vue.js)",
+    "Location": "France",
+    "Clean_Rate": 122.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Frontend Engineer (Angular)",
+    "Location": "Germany",
+    "Clean_Rate": 125.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Lead Product Designer",
+    "Location": "USA",
+    "Clean_Rate": 135.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior UX Researcher",
+    "Location": "UK",
+    "Clean_Rate": 115.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Technical Writer",
+    "Location": "Canada",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Business Analyst",
+    "Location": "Australia",
+    "Clean_Rate": 108.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Scrum Master",
+    "Location": "Germany",
+    "Clean_Rate": 105.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Project Manager",
+    "Location": "USA",
+    "Clean_Rate": 125.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "CTO Consultant",
+    "Location": "Switzerland",
+    "Clean_Rate": 185.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Enterprise Architect",
+    "Location": "USA",
+    "Clean_Rate": 165.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior SAP Consultant",
+    "Location": "Germany",
+    "Clean_Rate": 142.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Senior Salesforce Developer",
+    "Location": "USA",
+    "Clean_Rate": 135.00,
+    "Experience_Level": "Expert/Senior"
+  },
+  {
+    "Role": "Mid-Level Frontend Developer (React)",
+    "Location": "Poland",
+    "Clean_Rate": 88.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Frontend Developer (Vue.js)",
+    "Location": "Spain",
+    "Clean_Rate": 82.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Backend Developer (Python)",
+    "Location": "Poland",
+    "Clean_Rate": 85.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Backend Developer (Node.js)",
+    "Location": "Spain",
+    "Clean_Rate": 82.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Backend Developer (Java)",
+    "Location": "India",
+    "Clean_Rate": 65.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Full Stack Developer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 92.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Mobile Developer (iOS)",
+    "Location": "Canada",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Mobile Developer (Android)",
+    "Location": "UK",
+    "Clean_Rate": 93.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level Data Analyst",
+    "Location": "USA",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "DevOps Engineer",
+    "Location": "Netherlands",
+    "Clean_Rate": 105.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "QA Engineer",
+    "Location": "Germany",
+    "Clean_Rate": 78.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Technical Writer",
+    "Location": "Canada",
+    "Clean_Rate": 75.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "E-commerce Specialist",
+    "Location": "Singapore",
+    "Clean_Rate": 85.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Mid-Level UX Writer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 80.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "UI/UX Designer",
+    "Location": "Poland",
+    "Clean_Rate": 72.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Product Designer",
+    "Location": "USA",
+    "Clean_Rate": 105.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Scrum Master",
+    "Location": "UK",
+    "Clean_Rate": 88.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Business Analyst",
+    "Location": "Canada",
+    "Clean_Rate": 82.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Digital Marketing Specialist",
+    "Location": "USA",
+    "Clean_Rate": 75.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "SEO Specialist",
+    "Location": "Remote - Global",
+    "Clean_Rate": 65.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Content Writer",
+    "Location": "USA",
+    "Clean_Rate": 58.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Graphic Designer",
+    "Location": "Spain",
+    "Clean_Rate": 62.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Video Editor",
+    "Location": "Brazil",
+    "Clean_Rate": 55.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "3D Artist",
+    "Location": "Poland",
+    "Clean_Rate": 68.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Motion Graphics Designer",
+    "Location": "Mexico",
+    "Clean_Rate": 58.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Game Designer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 72.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Sound Designer",
+    "Location": "USA",
+    "Clean_Rate": 78.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Data Engineer",
+    "Location": "Netherlands",
+    "Clean_Rate": 98.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Machine Learning Engineer",
+    "Location": "USA",
+    "Clean_Rate": 125.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Cloud Engineer",
+    "Location": "Germany",
+    "Clean_Rate": 95.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Site Reliability Engineer",
+    "Location": "Canada",
+    "Clean_Rate": 102.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Security Analyst",
+    "Location": "UK",
+    "Clean_Rate": 88.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Network Engineer",
+    "Location": "Australia",
+    "Clean_Rate": 85.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Systems Administrator",
+    "Location": "Canada",
+    "Clean_Rate": 72.00,
+    "Experience_Level": "Mid-Level"
+  },
+  {
+    "Role": "Junior QA Automation Engineer",
+    "Location": "Spain",
+    "Clean_Rate": 55.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Backend Dev (Java)",
+    "Location": "India",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Frontend Developer (React)",
+    "Location": "Brazil",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Video Editor",
+    "Location": "Argentina",
+    "Clean_Rate": 40.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Graphic Designer",
+    "Location": "Philippines",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Wordpress Dev",
+    "Location": "Brazil",
+    "Clean_Rate": 30.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Python Developer",
+    "Location": "India",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior JavaScript Developer",
+    "Location": "Brazil",
+    "Clean_Rate": 40.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior PHP Developer",
+    "Location": "India",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Mobile Developer",
+    "Location": "Mexico",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Data Analyst",
+    "Location": "Poland",
+    "Clean_Rate": 48.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior UX Designer",
+    "Location": "Spain",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Content Writer",
+    "Location": "Philippines",
+    "Clean_Rate": 28.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior SEO Specialist",
+    "Location": "India",
+    "Clean_Rate": 30.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Social Media Manager",
+    "Location": "Brazil",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Virtual Assistant",
+    "Location": "Philippines",
+    "Clean_Rate": 25.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Copywriter",
+    "Location": "Argentina",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Web Designer",
+    "Location": "Mexico",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Game Developer",
+    "Location": "Poland",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior DevOps Engineer",
+    "Location": "India",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior QA Tester",
+    "Location": "Brazil",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior IT Support",
+    "Location": "India",
+    "Clean_Rate": 28.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Database Admin",
+    "Location": "Poland",
+    "Clean_Rate": 48.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Cloud Engineer",
+    "Location": "India",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Network Engineer",
+    "Location": "Mexico",
+    "Clean_Rate": 40.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Systems Admin",
+    "Location": "Brazil",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Animator",
+    "Location": "Philippines",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Illustrator",
+    "Location": "Argentina",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Audio Engineer",
+    "Location": "Brazil",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Video Producer",
+    "Location": "Mexico",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Photographer",
+    "Location": "Poland",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior UI Designer",
+    "Location": "India",
+    "Clean_Rate": 38.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Brand Designer",
+    "Location": "Spain",
+    "Clean_Rate": 48.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Email Marketing Specialist",
+    "Location": "Philippines",
+    "Clean_Rate": 28.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior PPC Specialist",
+    "Location": "India",
+    "Clean_Rate": 32.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior CRM Specialist",
+    "Location": "Brazil",
+    "Clean_Rate": 35.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Blockchain Developer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 68.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Smart Contract Developer",
+    "Location": "Remote - Global",
+    "Clean_Rate": 72.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior AR/VR Developer",
+    "Location": "Poland",
+    "Clean_Rate": 55.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Unity Developer",
+    "Location": "Brazil",
+    "Clean_Rate": 48.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Unreal Engine Developer",
+    "Location": "Poland",
+    "Clean_Rate": 52.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior Flutter Developer",
+    "Location": "India",
+    "Clean_Rate": 42.00,
+    "Experience_Level": "Junior"
+  },
+  {
+    "Role": "Junior React Native Developer",
+    "Location": "Brazil",
+    "Clean_Rate": 45.00,
+    "Experience_Level": "Junior"
+  }
+]
